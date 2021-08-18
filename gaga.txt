@@ -1,0 +1,5 @@
+Credentials cache: API:1013566
+        Principal: bhiramas@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 18 14:22:37 2021  Aug 19 00:22:37 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
